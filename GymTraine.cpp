@@ -1,6 +1,6 @@
 #include<conio.h>
 #include<iostream>
-#include<string.h>
+#include<string.h> //string header file
 
 using namespace std;
 class man
